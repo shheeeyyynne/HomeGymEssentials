@@ -8,7 +8,8 @@
     "react-dom": "^17.0.2",
     "react-router-dom": "^5.2.0",
     "react-helmet": "^6.1.0",
-    "next": "^12.1.10"
+    "next": "^12.1.10",
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "node node_modules/@craco/craco/bin/craco.js start",
@@ -34,6 +35,5 @@
     ]
   },
   "devDependencies": {
-    "react-scripts": "^5.0.1"
   }
 }
